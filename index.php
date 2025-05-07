@@ -636,7 +636,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                 <h2 class="popup-title-about">ABOUT LUCART</h2>
                                 <p class="popup-desc-about">Lucart menghadirkan koleksi t-shirt yang memadukan keindahan dengan sentuhan modern. Setiap t-shirt dibuat dari <mark>bahan berkualitas tinggi</mark>, memastikan dan daya tahan yang luar biasa.</p>
                                 <p class="popup-desc-about"> Dirancang dengan cermat untuk setiap detail, t-shirt Lucart tidak hanya menawarkan gaya yang elegan tetapi juga <mark>kesederhanaan yang menawan</mark>.</p>
-                                <p class="popup-desc-about">Cocok untuk berbagai kesempatan, baik formal maupun kasual, Lucart adalah pilihan tepat bagi mereka yang <mark>mengutamakan kualitas</mark> dan estetika dalam berbusana.</p>
+                                <p class="popup-desc-about">Cocok untuk berbagai kesempatan, baik formal maupun kasual, Lucart adalah pilihan tepat bagi mereka yang <mark>mengutamakan kualitas dan estetika</mark> dalam berbusana.</p>
                                 <a href="#produk" class="btn btn-dark py-2 px-4 mb-4 animated slideInLeft">SHOP NOW</a>
                             </div>
 
@@ -1506,7 +1506,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </div>
 
     <div class="whatsapp">
-        <a href="https://wa.me/6285157844013?text=permisi, saya ingin menanyakan..." class="shadow rounded-circle back-to-top">
+        <a href="https://wa.me/6283823269127?text=permisi, saya ingin menanyakan..." class="shadow rounded-circle back-to-top">
             <i class="fa-brands fa-whatsapp"></i>
         </a>
     </div>
